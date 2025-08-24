@@ -1,4 +1,4 @@
-
+MODELO OSI
 import streamlit as st
 
 # Dados das camadas
